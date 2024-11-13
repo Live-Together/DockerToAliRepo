@@ -4,4 +4,4 @@ mysql:8.4.3
 nacos/nacos-server:v2.3.0
 consul:1.15.4
 openjdk:8-jre
-
+postgresql:14
