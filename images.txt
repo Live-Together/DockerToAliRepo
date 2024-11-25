@@ -5,3 +5,4 @@ nacos/nacos-server:v2.3.0
 consul:1.15.4
 openjdk:8-jre
 postgres:14
+rabbitmq:3.13-management
